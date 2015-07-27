@@ -1,14 +1,11 @@
 # utils
 this document is for the common utils which written by me.
 
-# sort
-Different kinds of sort by iOS 
-
 <table class="table table-bordered table-striped table-condensed">
 <tr>
 <td>file name</td>
 <td>fuction</td>
-<td>update time</td>
+<td>update</td>
 </tr>
 <tr>
 <td>suuUtils</td>
